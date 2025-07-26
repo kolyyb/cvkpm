@@ -1,0 +1,218 @@
+{
+  "basics": {
+    "name": "karine Pham",
+    "label": "Développeuse en intelligence artificielle (alternance 16 fév. 2026 - 30 juin 2027)",
+    "image": "/kpm512.jpg",
+    "email": "karine73@gmail.com",
+    "phone": "06 52 29 30 79",
+    "url": "",
+    "summary": "En tant que future professionnelle de l'IA, je suis passionnée par le développement et l'optimisation d'applications web embarquant l'intelligence artificielle, incluant l'exploitation de services d'IA existants, la préparation de données et la mise en place de pipelines MLOps. Je vise également la certification Microsoft AI900.",
+    "theme": "default",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Toulouse",
+      "countryCode": "FR",
+      "region": "Occitanie"
+    },
+        "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "karine-pham",
+        "url": "https://www.linkedin.com/in/karine-pham/"
+      },
+      {
+        "network": "GitHub",
+        "username": "kolyyb",
+        "url": "https://github.com/kolyyb/diadom"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "DSI Toulouse",
+      "position": "Technicienne Data",
+      "location_type": "On site",
+      "location": "Toulouse",
+      "url": "https://www.dsi-inclusion.com",
+      "startDate": "2023-11-01",
+      "endDate": "2024-06-30",
+      "summary": "Extraction de données à partir de différentes sources (WEB, CSV, Excel, JSON). Nettoyage et normalisation des données. Rédaction de Modèles de Données Physiques. Insertion et stockage de données dans des BDD (SqLite, MySql). Analyse de données avec différents outils (Pandas, Plotly). Développement d'API Rest. Elaboration de tableaux de bord avec Dash.",
+      "highlights": [
+        "Extraction de données à partir de différentes sources (WEB, CSV, Excel, JSON)",
+        "Nettoyage et normalisation des données",
+        "Rédaction de Modèles de Données Physiques",
+        "Insertion et stockage de données dans des BDD (SqLite, MySql)",
+        "Analyse de données avec différents outils (Pandas, Plotly)",
+        "Développement d'API Rest",
+        "Elaboration de tableaux de bord avec Dash"
+      ],
+      "responsibilities": [
+        "Extraction de données à partir de différentes sources (WEB, CSV, Excel, JSON).",
+        "Nettoyage et normalisation des données.",
+        "Rédaction de Modèles de Données Physiques.",
+        "Insertion et stockage de données dans des BDD (SqLite, MySql).",
+        "Analyse de données avec différents outils (Pandas, Plotly).",
+        "Développement d'API Rest.",
+        "Elaboration de tableaux de bord avec Dash."
+      ],
+      "skills": [
+        "Pandas",
+        "Plotly",
+        "Developpement d'API Rest",
+        "Dash",
+        "SqLite",
+        "MySql"
+      ]
+    },
+    {
+      "name": "Network Systems Toulouse",
+      "position": "Coordinatrice technique",
+      "location_type": "On site",
+      "location": "Toulouse",
+      "url": "https://www.network-systems.fr",
+      "startDate": "2019-10-01",
+      "endDate": "2023-04-30",
+      "summary": "Réception des demandes clients. Qualification et répartition des demandes entre les différents techniciens. Planification des interventions. Vérification de la cohérence des compte-rendus d'interventions. Relation client (satisfaction, indicateurs qualités).",
+      "highlights": [
+        "Réception des demandes clients",
+        "Qualification et répartition des demandes entre les différents techniciens",
+        "Planification des interventions",
+        "Vérification de la cohérence des compte-rendus d'interventions",
+        "Relation client (satisfaction, indicateurs qualités)"
+      ],
+      "responsibilities": [
+        "Réception des demandes clients",
+        "Qualification et répartition des demandes entre les différents techniciens",
+        "Planification des interventions",
+        "Vérification de la cohérence des compte-rendus d'interventions",
+        "Relation client (satisfaction, indicateurs qualités)"
+      ],
+
+      "skills": [
+        "Communication",
+        "Support téléphonique",
+        "Indicateurs qualité"
+      ]
+    },
+    {
+      "name": "CESI ECOLE D'INGENIEURS-92 Nanterre",
+      "position": "Gestionnaire en maintenance et support informatique",
+      "location_type": "On site",
+      "location": "Nanterre",
+      "url": "https://www.cesi.fr",
+      "startDate": "2004-01-01",
+      "endDate": "2015-05-31",
+      "summary": "Gestion d'un parc informatique de 500 postes. Administration des réseaux informatiques et télécoms. Administration Windows et Linux. Gestion des serveurs d'application et de licensing. Formations/Initiation au pack office aux utilisateurs. Rédaction de documentation techniques et guides utilisateurs.",
+      "highlights": [
+        "Gestion d'un parc informatique de 500 postes",
+        "Administration des réseaux informatiques et télécoms",
+        "Administration Windows et Linux",
+        "Gestion des serveurs d'application et de licensing",
+        "Formations/Initiation au pack office aux utilisateurs",
+        "Rédaction de documentation techniques et guides utilisateurs"
+      ],
+      "responsibilities": [
+        "Gestion d'un parc informatique de 500 postes.",
+        "Administration des réseaux informatiques et télécoms.",
+        "Administration Windows et Linux.",
+        "Gestion des serveeurs d'application et de licensing.",
+        "Formations/Initiation au pack office aux utilisateurs.",
+        "Rédaction de documentation techniques et guides utilisateurs."
+      ],
+      
+      "skills": [
+        "Windows",
+        "Linux",
+        "Réseaux informatiques",
+        "Télécoms"
+      ]
+    }
+  ],
+  
+  "education": [
+    {
+      "institution": "Simplon Toulouse",
+      "url": "https://www.simplon.co",
+      "area": "Expert en infrastructure de données massives",
+      "studyType": "Certification RNCP 7 (Bac+4)",
+      "startDate": "2023-09-01",
+      "endDate": "2024-06-30",
+      "score": "Certificat obtenu",
+      "courses": [
+        "Récolte, stockage et transformation de données massives."
+      ]
+    },
+    {
+      "institution": "Dawan Toulouse",
+      "url": "https://www.dawan.fr",
+      "area": "TOSA Python",
+      "studyType": "Certificat",
+      "startDate": "2023-05-01",
+      "endDate": "2023-07-31",
+      "score": "",
+      "courses": [
+        "Les fondamentaux de programmation python"
+      ]
+    },
+    {
+      "institution": "EICESI NANTERRE",
+      "url": "https://www.cesi.fr",
+      "area": "Gestionnaire en Maintenance et Support Informatique",
+      "studyType": "RNCP 5 (Bac+2)",
+      "startDate": "2013-09-01",
+      "endDate": "2013-12-31"
+   
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certification Expert en infrastructure de données massives RNCP 7 (Bac+4)",
+      "date": "2024-06-30",
+      "issuer": "Simplon Toulouse",
+      "url": "https://simplon.co"
+    },
+    {
+      "name": "TOSA Python",
+      "date": "2023-07-31",
+      "issuer": "Dawan Toulouse",
+      "url": "https"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Analyse et exploitation de données",
+     
+      "keywords": [
+        "big data",
+        "Pandas",
+        "SQL",
+        "Dash"
+      ]
+    },
+    {
+      "name": "Création d'agents IA",
+      
+      "keywords": [
+        "n8n"
+      ]
+    },
+    {
+      "name": "Programmation",
+      
+      "keywords": [
+        "Python",
+        "HTML/CSS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Anglais",
+      "fluency": "Anglais technique lu et écrit"
+    }
+
+  ],
+  
+  "projects": []
+}
