@@ -7,7 +7,7 @@
     "phone": "06 52 29 30 79",
     "url": "",
     "summary": "En tant que future professionnelle de l'IA, je suis passionnée par le développement et l'optimisation d'applications web embarquant l'intelligence artificielle, incluant l'exploitation de services d'IA existants, la préparation de données et la mise en place de pipelines MLOps. Je vise également la certification Microsoft AI900.",
-    "theme": "default",
+    "theme": "blue",
     "location": {
       "address": "",
       "postalCode": "",
@@ -32,7 +32,7 @@
     {
       "name": "DSI Toulouse",
       "position": "Technicienne Data",
-      "location_type": "On site",
+      "location_type": "Sur site / télétravail",
       "location": "Toulouse",
       "url": "https://www.dsi-inclusion.com",
       "startDate": "2023-11-01",
@@ -68,7 +68,7 @@
     {
       "name": "Network Systems Toulouse",
       "position": "Coordinatrice technique",
-      "location_type": "On site",
+      "location_type": "Sur site",
       "location": "Toulouse",
       "url": "https://www.network-systems.fr",
       "startDate": "2019-10-01",
@@ -98,7 +98,7 @@
     {
       "name": "CESI ECOLE D'INGENIEURS-92 Nanterre",
       "position": "Gestionnaire en maintenance et support informatique",
-      "location_type": "On site",
+      "location_type": "Sur site",
       "location": "Nanterre",
       "url": "https://www.cesi.fr",
       "startDate": "2004-01-01",
@@ -181,30 +181,16 @@
   ],
   "skills": [
     {
-      "name": "Analyse et exploitation de données",
-     
+      "name": "Pandas. Plotly.  Dash.  Python.  n8n.  SQL.  BeaufifullSoup",
       "keywords": [
         "big data",
+        "Plotly",
         "Pandas",
         "SQL",
         "Dash"
       ]
-    },
-    {
-      "name": "Création d'agents IA",
-      
-      "keywords": [
-        "n8n"
-      ]
-    },
-    {
-      "name": "Programmation",
-      
-      "keywords": [
-        "Python",
-        "HTML/CSS"
-      ]
     }
+
   ],
   "languages": [
     {
@@ -214,5 +200,35 @@
 
   ],
   
-  "projects": []
+  "projects": [
+    {
+      "name": "Di@dom",
+      "isActive": false,
+      "description": "une webapp personnelle de gestion d'inventaire codée en python en prompting Claude Sonnet ",
+      "highlights": [
+        "prompt Cahier des charges du projet",
+        "formulaire de saisie, calcul de quantité, gestion de lieux",
+        "automatisation de transfert du contenu HTML vers un formulaire PDF",
+        "envoi automatisé vers une adresse mail du formulaire PDF"
+      ],
+      "github": "https://github.com/kolyyb/diadom",
+      "url": "https://github.com/kolyyb/diadom"
+       },
+           {
+      "name": "Di@vac",
+      "isActive": false,
+      "description": "une webapp personnelle de recherche de centres de dialyses accessibles aux dialysés externes ",
+      "highlights": [
+        "Récupération des centres sur l'annuaire en ligne par webscraping (Selenium / BeautifullSoup)",
+        "Création de la base de données SQL pour l'import des données scrappées (MySQL)",
+        "automatisation du transfert des données dans la BDD (fast API)",
+        "Aggregation des données pertinentes (requêtes)",
+        "Création d'un tableau de bord avec les données aggregés à choix multiples (Dash)",
+        "Creation de la carte geographiques avec les centes(Plotly)"
+      ],
+      "github": "https://gitlab.com/kolyyb/annuaire_dialyses",
+      "url": "https://gitlab.com/kolyyb/annuaire_dialyses"
+
+       }
+  ]
 }
